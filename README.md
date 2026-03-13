@@ -1,17 +1,27 @@
-🚀 LogSight - Application Monitoring Platform
-LogSight is a centralized monitoring and observability platform designed to track service health, application errors, and performance metrics in distributed systems.
+# 🚀 LogSight - Application Monitoring Platform
 
-🔧 Tech Stack
-Backend: ASP.NET Core Web API
-Database: MongoDB
-Frontend: Angular
-API Documentation: Swagger
-Containerization: Docker
+LogSight is a centralized monitoring and observability platform built using ASP.NET Core and MongoDB to track service health, application errors, and performance metrics in distributed systems.
 
-✨ Key Features
-Service registration and management
-Health check monitoring
-Centralized error logging
-Performance tracking
-RESTful API architecture
-Clean layered architecture (Controller → Service → Data)
+## 🔧 Tech Stack
+
+- ASP.NET Core Web API
+- MongoDB
+- Angular
+- Swagger (OpenAPI)
+- Docker (Planned)
+
+## ✨ Key Features
+
+- Service registration and management
+- Health check monitoring
+- Centralized error logging
+- Performance tracking
+- Clean layered architecture (Controller → Service → Data)
+
+## 🏗 Architecture
+
+Angular Dashboard  
+⬇  
+ASP.NET Core API  
+⬇  
+MongoDB
